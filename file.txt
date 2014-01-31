@@ -2,5 +2,5 @@ Hola mundo
 
 linea nueva
 
-nueva linea agregada por gabriel
+nueva linea agregada por gabriel continuación de la segunda linea
 hola mundo 2 agregado 
